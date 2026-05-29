@@ -2,7 +2,6 @@
 
 A robust, enterprise-grade **Inventory Management System** built with **Laravel 12** and **Livewire**. Designed specifically to streamline inventory tracking, sales, purchasing processes, and financial ledger management with dynamic localization.
 
-![Dashboard Preview](public/images/screenshot.png)
 
 ## 🌟 Key Modules & Features
 
