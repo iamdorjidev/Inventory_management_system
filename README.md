@@ -131,5 +131,3 @@ Have ideas to improve the system? Architecture enhancements, UI tweaks, or bug r
 Licensed under the [MIT License](LICENSE).
 
 ---
-
-> Crafted by [Fajar Ghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@fajarghifar) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/)
